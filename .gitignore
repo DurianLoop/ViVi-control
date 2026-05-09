@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+*.spec
+.download_digit_maid/
+archive/
+cleanup_trash/
+release_repo*/
+upload_package*/
+_git/
+ViVi-Control-v*/
